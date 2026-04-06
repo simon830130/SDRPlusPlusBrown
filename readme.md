@@ -1,4 +1,12 @@
-# SDR++Brown (fork), is not the original bloat-free SDR software
+# SDR++ Brown for LibreSDR
+
+This repository branch is a LibreSDR-focused SDR++ Brown build.
+
+It is intended for LibreSDR boards that expose a PlutoSDR-compatible IIO topology, with special attention to Windows detection, direct network probing, `CS8` support, and `tezuka_fw`-based 8-bit wideband workflows.
+
+If you are looking for the general Brown fork rather than the LibreSDR-oriented build, use the upstream Brown repository instead:
+
+* [sannysanoff/SDRPlusPlusBrown](https://github.com/sannysanoff/SDRPlusPlusBrown)
 
 [Changelog](changelog.md)
 
