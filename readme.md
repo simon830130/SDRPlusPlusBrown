@@ -1,6 +1,8 @@
 # SDR++ Brown for LibreSDR
 
-This repository branch is a LibreSDR-focused SDR++ Brown build.
+This repository is developed specifically for LibreSDR.
+
+It is a LibreSDR-focused SDR++ Brown build rather than a generic Brown fork mirror.
 
 It is intended for LibreSDR boards that expose a PlutoSDR-compatible IIO topology, with special attention to Windows detection, direct network probing, `CS8` support, and `tezuka_fw`-based 8-bit wideband workflows.
 
