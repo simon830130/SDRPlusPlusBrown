@@ -1,4 +1,4 @@
-# SDR++Brown (fork), is not the original bloat-free SDR software
+# SDRPlusPlusBrown-for-LibreSDR , is not the original bloat-free SDR software
 
 [Changelog](changelog.md)
 
